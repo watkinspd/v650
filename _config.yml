@@ -1,6 +1,6 @@
 # Site settings
 title: 2010 Versys 650
-description: 37000kms<br>Metallic Spark Black<br>non-ABS<br>needs nothing, maintenance up to date
+description: 37000kms<br>Metallic Spark Black<br>non-ABS<br>needs nothing<br>maintenance up to date
 baseurl: "/v650" # the subpath of your site, e.g. /blog
 url: "https://flexbc.ca" # the base hostname & protocol for your site
 author: pw
