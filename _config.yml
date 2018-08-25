@@ -1,6 +1,6 @@
 # Site settings
 title: 2010 Versys 650
-description: Victoria BC, Canada<br>37000kms<br>Metallic Spark Black<br>non-ABS<br>needs nothing<br>maintenance up to date<br>VicVersys650@gmail.com
+description: Victoria BC, Canada<br>37000kms<br>Metallic Spark Black<br>non-ABS<br>needs nothing<br>maintenance up to date<br><a href="mailto:VicVersys650@gmail.com">VicVersys650@gmail.com</a>
 baseurl: "/v650" # the subpath of your site, e.g. /blog
 url: "https://flexbc.ca" # the base hostname & protocol for your site
 author: pw
